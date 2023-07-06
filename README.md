@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Check out my real code at https://gitea.tyrel.dev/tyrel
+I stopped using GitHub for most things, please find me elsewhere -> https://tyrel.dev/links
+
 
 <!--
 **tyrelsouza/tyrelsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
