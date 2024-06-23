@@ -9,4 +9,4 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I'm fantastic at finding four leaf clovers.
 
-I stopped using GitHub for most things when a job made me make an enterprise account, and current work uses self hosted.
+I stopped using GitHub for most things when a job made me make an enterprise account, and current work uses self hosted. Activity on GitHub fizzles after January 2022ish.
